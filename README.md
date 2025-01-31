@@ -25,12 +25,16 @@ This project allows users to **register land, transfer ownership, and verify lan
 ### 1️⃣ **Install Dependencies**
 Make sure you have **Node.js**, **Python**, and **Ganache** installed.
 
-```bash
 # Install Truffle globally
+```bash
 npm install -g truffle
+```
 
 # Install Python dependencies
+```bash
 pip install web3 streamlit
+```
+
 # Blockchain-Based Land Registry
 
 ## 🏗 Setup Guide
