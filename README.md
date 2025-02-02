@@ -1,11 +1,11 @@
-# 🏡 Blockchain Land Registry
+#  Blockchain Land Registry
 
 A **decentralized land registry system** built on **Ethereum blockchain** using **Solidity, Truffle, Ganache, Web3.py, and Streamlit**.  
 This project allows users to **register land, transfer ownership, and verify land details securely** on the blockchain.
 
 ---
 
-## 🚀 Features
+## Features
 ✅ Register new land parcels securely.  
 ✅ Transfer land ownership with blockchain verification.  
 ✅ Fetch land details instantly.  
@@ -13,14 +13,14 @@ This project allows users to **register land, transfer ownership, and verify lan
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Blockchain:** Ethereum, Solidity, Web3.js, Truffle, Ganache  
 - **Backend:** Python, Web3.py  
 - **Frontend:** Streamlit  
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 ### 1️⃣ **Install Dependencies**
 Make sure you have **Node.js**, **Python**, and **Ganache** installed.
@@ -37,7 +37,7 @@ pip install web3 streamlit
 
 # Blockchain-Based Land Registry
 
-## 🏗 Setup Guide
+## Setup Guide
 
 ### 1️⃣ Start Ganache
 Run Ganache on:
@@ -45,13 +45,13 @@ Run Ganache on:
 http://127.0.0.1:7545
 ```
 
-### 2️⃣ Compile & Deploy Smart Contract
+### Compile & Deploy Smart Contract
 Run the following command to compile and deploy the smart contract:
 ```bash
 truffle migrate --reset
 ```
 
-### 3️⃣ Run the Streamlit App
+###  Run the Streamlit App
 Start the frontend by running:
 ```bash
 streamlit run app.py
@@ -59,7 +59,7 @@ streamlit run app.py
 
 ---
 
-## 📜 Usage Guide
+##  Usage Guide
 
 ### ➤ Register a New Land Parcel
 1. Select an Ethereum account (from Ganache).
@@ -77,7 +77,7 @@ streamlit run app.py
 
 ---
 
-## 🛠 Troubleshooting
+## Troubleshooting
 
 ❌ **Web3 is not connected**  
 ✔ Ensure Ganache is running on port **7545**.
@@ -105,12 +105,11 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
-🔹 Subinesh  
-📧 subinesh.b2c@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/subinesh-b-92125a323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) | [GitHub](https://github.com/The-Whiz-Guy)
+project done by 
+GOTRU JAYAPAUL 
+gmail- ganand00777@gmail.com 
 
 ---
 
-This **README** includes everything needed to install, run, and troubleshoot your project. 🚀  
-Let me know if you need modifications! 😊
+This **README** includes everything needed to install, run, and troubleshoot your project.   
+Let me know if you need modifications! 
